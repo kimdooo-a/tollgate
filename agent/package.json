@@ -1,0 +1,16 @@
+{
+  "name": "tollgate-agent",
+  "version": "1.0.0",
+  "description": "Agent-side SafeSigner and attack demo for the Tollgate vault",
+  "scripts": {
+    "setup": "node setup-demo.mjs",
+    "attack": "node attack-demo.mjs",
+    "approve": "node approve.mjs"
+  },
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "near-api-js": "^7.4.0"
+  },
+  "private": true
+}

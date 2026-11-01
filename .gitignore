@@ -1,0 +1,6 @@
+target/
+.env
+*.key
+neardev/
+node_modules/
+.agent-key.json

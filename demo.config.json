@@ -1,0 +1,9 @@
+{
+  "network": "testnet",
+  "rpcUrl": "https://test.rpc.fastnear.com",
+  "explorer": "https://testnet.nearblocks.io/txns/",
+  "vault": "tollgate-1101-2897.testnet",
+  "owner": "tollgate-owner-1101-20453.testnet",
+  "shop": "shop.tollgate-owner-1101-20453.testnet",
+  "drainer": "drainer.tollgate-owner-1101-20453.testnet"
+}
